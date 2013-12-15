@@ -1,6 +1,10 @@
-cocos2d-x 
-==================
+cocos2d-x-qt
+-------------
+based on [cocos2d-x-qt][8]
+update to cocos2d-x v2.2.1
 
+cocos2d-x 
+-------------
 [cocos2d-x][1] is a multi-platform 2D game engine in C++, based on [cocos2d-iphone][2] and licensed under MIT.
 Now this engine has been expended to iOS, Android, Bada, BlackBerry Playbook, Marmalade and desktop operating systems like Linux, WindowsXP & Windows7. 
 
@@ -32,3 +36,4 @@ Contact us
 [5]: http://forum.cocos2d-x.org "http://forum.cocos2d-x.org"
 [6]: http://www.twitter.com/cocos2dx "http://www.twitter.com/cocos2dx"
 [7]: http://t.sina.com.cn/cocos2dx "http://t.sina.com.cn/cocos2dx"
+[8]: https://github.com/nokia-developer/cocos2d-x-qt "cocos2d-x for qt"
